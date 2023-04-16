@@ -32,3 +32,4 @@ class Menu:
                     mb.button_b.was_pressed()
                 else:
                     end = True
+        mb.display.clear()
